@@ -9,8 +9,8 @@ Organisational documents are kept in the handbook repository (rather than the te
 Our roadmap is organised into GitHub Milestones, and the milestones are organised across the two repositories, such that issues/milestones that require edits to the template repo can be found on the template repo, while issues/milestones that require edits to the handbook repo can be found on the handbook repo.
 
 ## Milestone 1: Complete prototype
-- Milestone 1A: Prototype the `Our Handbook` template.
-- Milestone 1B: Prototype the `Our Handbook` handbook.
+- Milestone 1A: Prototype the `Our Handbook` template. 
+- [Milestone 1B](milestone/1): Prototype the `Our Handbook` handbook.
 
 ## Milestone 2: First user-test (me)
 - Milestone 2A: Create the *Jean Golding Institute Data Scientists Handbook*, and test the away-day guidance.
