@@ -10,11 +10,11 @@ Our roadmap is organised into GitHub Milestones, and the milestones are organise
 
 ## Milestone 1: Complete prototype
 - Milestone 1A: Prototype the `Our Handbook` template. 
-- [Milestone 1B](https://github.com/NatalieThurlby/our-handbook-handbook/milestone/1 Prototype the `Our Handbook` handbook.
+- [Milestone 1B](https://github.com/NatalieThurlby/our-handbook-handbook/milestone/1) Prototype the `Our Handbook` handbook. (checklist #2)
 
 ## Milestone 2: First user-test (me)
 - Milestone 2A: Update the `Our Handbook` template to include feedback from the first demo handbook
-- Milestone 2B: Update the `Our Handbook` handbook to include feedback from the first away-day.
+- [Milestone 2B](): Update the `Our Handbook` handbook to include feedback from the first away-day.
 
 ## Milestone 3: Second user-test (someone else)
 - Milestone 3A: Update the `Our Handbook` template to include feedback from the away day.
