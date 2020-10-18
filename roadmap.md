@@ -10,17 +10,15 @@ Our roadmap is organised into GitHub Milestones, and the milestones are organise
 
 ## Milestone 1: Complete prototype
 - Milestone 1A: Prototype the `Our Handbook` template. 
-- [Milestone 1B](milestone/1): Prototype the `Our Handbook` handbook.
+- [Milestone 1B](https://github.com/NatalieThurlby/our-handbook-handbook/milestone/1 Prototype the `Our Handbook` handbook.
 
 ## Milestone 2: First user-test (me)
-- Milestone 2A: Create the *Jean Golding Institute Data Scientists Handbook*, and test the away-day guidance.
-- Milestone 2B: Update the `Our Handbook` template to include feedback from the first demo handbook
-- Milestone 2C: Update the `Our Handbook` handbook to include feedback from the first away-day.
+- Milestone 2A: Update the `Our Handbook` template to include feedback from the first demo handbook
+- Milestone 2B: Update the `Our Handbook` handbook to include feedback from the first away-day.
 
 ## Milestone 3: Second user-test (someone else)
-- Milestone 3A: Run the away-day
-- Milestone 3B: Update the `Our Handbook` template to include feedback from the away day.
-- Milestone 3C: Update the `Our Handbook` handbook to include feedback from the away day.
+- Milestone 3A: Update the `Our Handbook` template to include feedback from the away day.
+- Milestone 3B: Update the `Our Handbook` handbook to include feedback from the away day.
 
 ## Milestone 4: Launch (public)
 - Milestone 4: Launch for other groups (at conference)
