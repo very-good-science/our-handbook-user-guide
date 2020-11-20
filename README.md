@@ -1,4 +1,6 @@
 # The `Our Handbook` handbook
+:construction: Thank you for your patience while we develop this repository :construction:
+
 Welcome to the `Our Handbook` how-to-guide repository! This repository contains the how-to-guide for the `Our Handbook` research group staff handbook [template](template-repo). You can see the deployed how-to-guide [here](deployed-handbook-handbook).
 
 ## The `Our Handbook` project
