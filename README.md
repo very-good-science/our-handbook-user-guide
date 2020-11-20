@@ -48,7 +48,7 @@ Thank you for taking this opportunity to create a considered and healthy researc
 
 A basic run down of how to use our [template repository](template-repo) is below, but detailed instructions can be found [here](deployed-handbook-handbook) in our deployed handbook.
 
-### 1\. Make your own copy the [template repository](template-repo)
+### 1\. Make your own copy of the [template repository](template-repo)
 * Fork the repo (if your group doesn't have a GitHub organisation, perhaps make one and fork to there).
 * Make all members of your team collaborators of the forked repo
 
@@ -93,7 +93,7 @@ Here we have examples of in-use deployed handbooks:
 -->
 <!--TODO: Add some testimonials-->
 ----
-The [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) was used to help plan this project.
+The [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) was used to help plan this project. It is inspired by efforts to increase the accessibility of science such as [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) and [The Carpentries](https://carpentries.org/).
 
 [deployed-handbook-handbook]: https://nataliethurlby.github.io/handbook-handbook
 [template-repo]: https://github.com/NatalieThurlby/our-handbook-template/
