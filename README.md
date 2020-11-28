@@ -1,4 +1,4 @@
-# The `Our Handbook` handbook: the meta handbook!
+# The `Our Handbook` project handbook: the meta handbook!
 :construction: Thank you for your patience while we develop this repository :construction:
 
 Welcome to the `Our Handbook` meta-handbook GitHub repository! This repository is part of the [`Our Handbook`](#the-our-handbook-project) project, and contains code for the [how-to-guide](deployed-handbook-handbook) that tells you how to get the most out of the `Our Handbook` [template](template-repo). 
