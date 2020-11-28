@@ -1,7 +1,7 @@
 # The `Our Handbook` project handbook: the meta handbook!
 :construction: Thank you for your patience while we develop this repository :construction:
 
-Welcome to the `Our Handbook` meta-handbook GitHub repository! This repository is part of the [`Our Handbook`](#the-our-handbook-project) project, and contains code for the [how-to-guide](deployed-handbook-handbook) that tells you how to get the most out of the `Our Handbook` [template](template-repo). 
+Welcome to the `Our Handbook` meta-handbook GitHub repository! This repository is part of the [`Our Handbook`](#the-our-handbook-project) project, and contains code for the [how-to-guide](deployed-handbook-handbook) (a.k.a. the meta-handbook) that tells you how to get the most out of the `Our Handbook` [template](template-repo) - a template for an RSE or research group handbook. 
 
 ## The `Our Handbook` project
 `Very Good Science` is working with researchers to build the `Our Handbook` resources: a research group staff handbook [template](template-repo) and [materials to help you use it](deployed-handbook-handbook). We hope research group leaders and members will work together using these resources to:
