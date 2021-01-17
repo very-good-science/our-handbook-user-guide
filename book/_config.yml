@@ -1,0 +1,8 @@
+# Book settings
+title: The Our Handbook user guidebook
+author: The Our Handbook community
+logo: images/logo.png
+
+latex:
+  latex_documents:
+    targetname: book.tex

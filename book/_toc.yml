@@ -1,0 +1,5 @@
+- file: content/welcome
+- file: content/template/index
+  sections:
+    - file: content/template/notebooks
+    - file: content/template/morecontent
