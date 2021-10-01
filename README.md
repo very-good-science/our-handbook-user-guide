@@ -96,5 +96,5 @@ Here we have examples of in-use deployed handbooks:
 ----
 The [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) was used to help plan this project. It is inspired by efforts to increase the accessibility of science such as [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) and [The Carpentries](https://carpentries.org/).
 
-[deployed-handbook-handbook]: https://nataliethurlby.github.io/our-handbook-user-guide
-[template-repo]: https://github.com/NatalieThurlby/our-handbook-template/
+[deployed-handbook-handbook]: https://very-good-science.github.io/our-handbook-user-guide
+[template-repo]: https://github.com/very-good-science/our-handbook-template/
