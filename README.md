@@ -1,7 +1,7 @@
-# The `Our Handbook` project handbook: the meta handbook!
+# The `Our Handbook` user guide!
 :construction: Thank you for your patience while we develop this repository :construction:
 
-Welcome to the `Our Handbook` meta-handbook GitHub repository! This repository is part of the [`Our Handbook`](#the-our-handbook-project) project, and contains code for the [how-to-guide](deployed-handbook-handbook) (a.k.a. the meta-handbook) that tells you how to get the most out of the `Our Handbook` [template](template-repo) - a template for an RSE or research group handbook. 
+Welcome to the `Our Handbook` user guide GitHub repository! This repository is part of the [`Our Handbook`](#the-our-handbook-project) project, and contains code for the [how-to-guide](deployed-handbook-handbook) that tells you how to get the most out of the `Our Handbook` [template](template-repo) - a template for an RSE or research group handbook. 
 
 ## The `Our Handbook` project
 `Very Good Science` is working with researchers to build the `Our Handbook` resources: a research group staff handbook [template](template-repo) and [materials to help you use it](deployed-handbook-handbook). We hope research group leaders and members will work together using these resources to:
@@ -10,7 +10,8 @@ Welcome to the `Our Handbook` meta-handbook GitHub repository! This repository i
 
 We welcome [contributions](#contributing) in order to create a richer resource for others.
 
-The `Our Handbook` [template](template), and therefore the research group handbook you will make from it, are [Jupyter Books](http://jupyterbook.org/). Group leaders and members edit the book together to create a living document which works for them. The `Our Handbook` template has a variety of different [sections](#handbook-sections), your group might not use all of them, and each section has a variety of solutions that you can choose from.
+The `Our Handbook` [template](template), and therefore the research group handbook you will make from it, are [Jupyter Books](http://jupyterbook.org/). 
+Group leaders and members edit the book together to create a living document which works for them. The `Our Handbook` template has a variety of different [sections](#handbook-sections), your group might not use all of them, and each section has a variety of solutions that you can choose from.
 
 ## Why should you create a research group staff handbook?
 A group handbook can be used to ensure the following practical aims:
@@ -95,5 +96,5 @@ Here we have examples of in-use deployed handbooks:
 ----
 The [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) was used to help plan this project. It is inspired by efforts to increase the accessibility of science such as [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) and [The Carpentries](https://carpentries.org/).
 
-[deployed-handbook-handbook]: https://nataliethurlby.github.io/handbook-handbook
+[deployed-handbook-handbook]: https://nataliethurlby.github.io/our-handbook-user-guide
 [template-repo]: https://github.com/NatalieThurlby/our-handbook-template/
