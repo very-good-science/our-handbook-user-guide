@@ -82,7 +82,7 @@ We would love :sparkling_heart: you to contact us if you'd like to any of the fo
 * Ask for help
 * Let us know about your deployed handbook, or how it has worked for you.
 
-Opening a GitHub [issue](https://github.com/NatalieThurlby/research-handbook/issues/new) is our favourite way, but you can also [email us](mailto:natalie.thurlby@bristol.ac.uk). 
+Opening a GitHub [issue](https://github.com/very-good-science/our-handbook/issues/new) is our favourite way, but you can also [email us](mailto:natalie.zelenka@bristol.ac.uk). 
 
 <!--TODO: Make issue templates-->
 <!--
@@ -96,5 +96,5 @@ Here we have examples of in-use deployed handbooks:
 ----
 The [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) was used to help plan this project. It is inspired by efforts to increase the accessibility of science such as [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) and [The Carpentries](https://carpentries.org/).
 
-[deployed-handbook-handbook]: https://very-good-science.github.io/our-handbook-user-guide
-[template-repo]: https://github.com/very-good-science/our-handbook-template/
+[deployed-handbook-handbook]: https://very-good-science.github.io/our-handbook
+[template-repo]: https://github.com/very-good-science/our-handbook
